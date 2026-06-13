@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Nathan Luiz! 👋
 
-<!--
-**nathanluiz579-tech/nathanluiz579-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu repositório no GitHub.
 
-Here are some ideas to get you started:
+## 👤 Sobre Mim
+* 📝 **Nome:** Nathan Luiz
+* 🎂 **Idade:** 16 anos
+* 📚 **Estudante de:** * Técnico em Logística
+  * Técnico em Informática para Internet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ O que estou aprendendo / desenvolvendo:
+* 💻 Desenvolvimento web e conceitos de TI (Informática para Internet).
+* 📦 Organização, planejamento e fluxos de processos (Logística).
+
+## 🚀 Meu objetivo
+Utilizar a tecnologia e a programação para criar soluções inteligentes, integrando os conhecimentos de informática com a área de logística.
+
+---
+
+### 📫 Como me encontrar:
+* GitHub: [nathan-luiz](https://github.com/seu-usuario-aqui) *(Altere para o seu usuário real)*
