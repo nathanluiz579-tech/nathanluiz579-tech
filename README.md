@@ -1,9 +1,5 @@
 # 🚀 Fala aí, eu sou o Nathan Luiz! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=39FF14&center=false&vCenter=false&width=500&lines=Desenvolvedor+Web+...;Estudante+de+Log%C3%ADstica;Criando+o+futuro+na+Internet!+💻" alt="Typing SVG" />
-</p>
-
 ¡Seja muito bem-vindo ao meu espaço aqui no GitHub! ✨
 
 ---
@@ -41,7 +37,7 @@ Estou conectando o melhor dos dois mundos: a inteligência da **Informática** c
 
 ### 📫 Bora se conectar?
 
-* **GitHub:** [Meu Perfil](https://github.com/seu-usuario-aqui) 🚀 *(Troque pelo seu link real!)*
+* **GitHub:** [Meu Perfil](https://github.com/nathanluiz579-tech) 
 
 ---
 <p align="center">
